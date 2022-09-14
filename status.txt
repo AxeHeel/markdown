@@ -1,0 +1,1 @@
+Megmutatja hogy mi van stagelve az adott könyvtárban

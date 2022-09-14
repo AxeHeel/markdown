@@ -1,0 +1,1 @@
+Egy könyvtárat git repository-ként inicializál.
